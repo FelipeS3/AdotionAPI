@@ -1,0 +1,17 @@
+# Ignorar diretórios do ReSharper
+_ReSharper.Caches/
+.idea/
+.vs/
+
+# Ignorar arquivos de configuração de IDE
+*.user
+*.suo
+*.DotSettings.user
+
+# Ignorar arquivos temporários
+*.log
+
+# Ignorar diretórios de compilação
+bin/
+obj/
+
